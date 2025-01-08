@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Pasos
 1. sdhdfhfjfh
+=======
+Hola, sigue estos pasos:
+>>>>>>> 6f084257c0d73228aca78a02227e6fe82e442809
